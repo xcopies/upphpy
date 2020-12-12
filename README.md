@@ -4,8 +4,8 @@
 
 # *Cara menjalankan
 
-1. ketik "cd upp" enter
-2. ketik "python upp" enter
+1. ketik "cd upphpy" enter
+2. ketik "python upphpy" enter
 
 # *Info
 
